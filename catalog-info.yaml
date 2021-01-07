@@ -1,0 +1,10 @@
+- apiVersion: backstage.io/v1alpha1
+  kind: Component
+  metadata:
+    name: service-app
+    annotations:
+      github.com/project-slug: bot915/service-app
+  spec:
+    type: other
+    lifecycle: unknown
+
